@@ -1,4 +1,4 @@
-# Regresion_Lineal.
+# Regresion_Lineal
 Taller 3
 - integrante 1: Ana Maria Olivera Morales
 - integrante 2: Laura Viviana Pirazan Robayo 
